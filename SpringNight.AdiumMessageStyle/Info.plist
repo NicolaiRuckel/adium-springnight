@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllowTextColors</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>German</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Ranarion's IRC-Style 2</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.adiumx.ranarion_irc2.style</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>CFBundleName</key>
+	<string>Ranarion's IRC-Style</string>
+	<key>CFBundlePackageType</key>
+	<string>AdIM</string>
+	<key>DefaultFontFamily</key>
+	<string>Monaco</string>
+	<key>DefaultFontSize</key>
+	<integer>12</integer>
+	<key>DisableCombineConsecutive</key>
+	<true/>
+	<key>DisableCustomBackground</key>
+	<false/>
+	<key>DisplayNameForNoVariant</key>
+	<string>None</string>
+	<key>MessageViewVersion</key>
+	<integer>4</integer>
+	<key>ShowsUserIcons</key>
+	<false/>
+	<key>DefaultVariant</key>
+	<string>Standard</string>
+</dict>
+</plist>

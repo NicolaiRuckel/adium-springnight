@@ -1,0 +1,45 @@
+body {
+    background: #000;
+    line-height : 1.3em;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color : #0cf;
+}
+
+a:link:hover {
+    text-decoration : underline;
+}
+
+.incoming {
+    color : #FFF;
+}
+
+.outgoing {
+    color : #999;
+}
+
+input {
+    background : black
+    border : 2px solid #0cf;
+}
+        
+.incomingName {
+    color : #3e87e3;
+}
+
+.outgoingName {
+    color : #89bdff;
+}
+
+.time {
+	color : #3387bc;
+}
+
+.status {
+    color : #65b042;
+}
