@@ -7,13 +7,13 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>German</string>
 	<key>CFBundleGetInfoString</key>
-	<string>Ranarion's IRC-Style 2</string>
+	<string>SpringNight</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.adiumx.ranarion_irc2.style</string>
+	<string>com.adiumx.springnight.style</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>CFBundleName</key>
-	<string>Ranarion's IRC-Style</string>
+	<string>SpringNight</string>
 	<key>CFBundlePackageType</key>
 	<string>AdIM</string>
 	<key>DefaultFontFamily</key>
