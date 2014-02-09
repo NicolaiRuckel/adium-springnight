@@ -1,5 +1,5 @@
 body {
-    background: #fff;
+    background: #eeeeee;
     line-height : 1.3em;
 }
 
@@ -8,7 +8,7 @@ a {
 }
 
 a:link {
-    color : #0cf;
+    color : #005faf;
 }
 
 a:link:hover {
@@ -24,22 +24,22 @@ a:link:hover {
 }
 
 input {
-    background : white
+    background : #eeeeee
     border : 2px solid #0cf;
 }
         
 .incomingName {
-    color : #3e87e3;
+    color : #af5f00;
 }
 
 .outgoingName {
-    color : #89bdff;
+    color : #008700;
 }
 
 .time {
-	color : #3387bc;
+	color : #5F87AF;
 }
 
 .status {
-    color : #65b042;
+    color : #870087;
 }
